@@ -37,7 +37,7 @@ namespace SecuringWebApi.MessageHandlers
                     if (decodedCredentials[0].Equals("username")
                     && decodedCredentials[1].Equals("password"))
                     {
-                        _userName = "John Doe";
+                        _userName = "Example";
                         return true;//request authenticated.
                     }
                 }
