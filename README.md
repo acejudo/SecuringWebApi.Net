@@ -1,4 +1,4 @@
-# SecuringWebApi.Net
+# SecuritingWebApi.Net
 
 This solution shows how apply in a WebApi:
 
